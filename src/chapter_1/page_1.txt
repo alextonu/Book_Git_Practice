@@ -1,0 +1,12 @@
+this is the first page og chapter 1
+
+
+this is out Book ;)
+
+whole name: page1.txt
+
+Create a new project
+Create a new Package called chapter_1
+Create  a new text file called page
+
+1
