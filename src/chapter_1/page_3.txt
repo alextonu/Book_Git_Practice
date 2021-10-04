@@ -8,3 +8,7 @@ the story is interesting
 random text
 
 Today is a Wonderful day :)
+
+-=========================>
+
+FETCH -----> CHECK
